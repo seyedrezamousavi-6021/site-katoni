@@ -7,3 +7,43 @@
 
 ### image
 ![nex1code](https://next1code.ir/wp-content/uploads/2023/11/github2-course-cover.jpg)
+
+---
+just love **reza**
+---
+just love *reza*
+---
+> Dorothy followed her through many of the beautiful rooms in her castle
+---
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+---
+* First item
+* Second item
+* Third item
+* Fourth item
+---
+At the command prompt, type `nano`.
+---
+``Use `code` in your Markdown file.``
+---
+```javascript
+function jeneraitor(){
+    console.log('reza')
+}
+
+```
+---
+```html
+<html></html>
+```
+---
+
+
+
+| fristName   | lastName    |
+| ----------- | ----------- |
+| reza        | mousavi     |
+| millad      | bahrami     |
